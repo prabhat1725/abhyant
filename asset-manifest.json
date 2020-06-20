@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/abhyant/static/css/main.34de6062.chunk.css",
-    "main.js": "/abhyant/static/js/main.587af5c2.chunk.js",
-    "main.js.map": "/abhyant/static/js/main.587af5c2.chunk.js.map",
+    "main.js": "/abhyant/static/js/main.1a84093b.chunk.js",
+    "main.js.map": "/abhyant/static/js/main.1a84093b.chunk.js.map",
     "runtime-main.js": "/abhyant/static/js/runtime-main.72ef1e00.js",
     "runtime-main.js.map": "/abhyant/static/js/runtime-main.72ef1e00.js.map",
     "static/js/2.7d072569.chunk.js": "/abhyant/static/js/2.7d072569.chunk.js",
     "static/js/2.7d072569.chunk.js.map": "/abhyant/static/js/2.7d072569.chunk.js.map",
     "index.html": "/abhyant/index.html",
-    "precache-manifest.a9a7b985ebc43afb80125b11824fb59c.js": "/abhyant/precache-manifest.a9a7b985ebc43afb80125b11824fb59c.js",
+    "precache-manifest.94dfbe4e030c7ce730aa107001ed95cc.js": "/abhyant/precache-manifest.94dfbe4e030c7ce730aa107001ed95cc.js",
     "service-worker.js": "/abhyant/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/abhyant/static/css/main.34de6062.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.72ef1e00.js",
     "static/js/2.7d072569.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.587af5c2.chunk.js"
+    "static/js/main.1a84093b.chunk.js"
   ]
 }
