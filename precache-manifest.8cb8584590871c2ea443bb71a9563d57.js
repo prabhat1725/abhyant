@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dc0f46da2f6f4c0b55a5584e7803c6e",
+    "revision": "089e1fa5333f27933168ab654afcd887",
     "url": "/abhyant/index.html"
   },
   {
-    "revision": "613afe3ed26b488d937e",
+    "revision": "f45423cd2a90ffe8b67b",
     "url": "/abhyant/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abhyant/static/js/2.7d072569.chunk.js"
   },
   {
-    "revision": "613afe3ed26b488d937e",
-    "url": "/abhyant/static/js/main.1a84093b.chunk.js"
+    "revision": "f45423cd2a90ffe8b67b",
+    "url": "/abhyant/static/js/main.e0782951.chunk.js"
   },
   {
     "revision": "b27fa563a243d2e93a97",
