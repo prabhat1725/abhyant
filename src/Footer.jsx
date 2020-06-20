@@ -75,7 +75,7 @@ export class Footer extends React.Component {
             <div class="col-sm-2 pt-10">
             <ul >
                   <li className="">
-                   <h6></h6>
+                   
                   </li>
                     <li>
                         <Link to="/privacypolicy">
