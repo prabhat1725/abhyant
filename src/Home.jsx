@@ -7,7 +7,7 @@ class Home extends React.Component {
     return (
       <div className="home">
         <div className="firstpart mb-20">
-          <img src={Images.firstback1.url} className="mb-20" />
+          <img src={Images.firstback1.url} className="mb-20"alt="Background" />
           <dv className="d-flex">
             <div>
               <p>India’s Leading Electrical Contracting Company Since 1984</p>
